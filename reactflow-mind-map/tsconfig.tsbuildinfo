@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/app/index.tsx","./src/app/store.ts","./src/app/types.ts","./src/app/mindmapedge/index.tsx","./src/app/mindmapnode/dragicon.tsx","./src/app/mindmapnode/index.tsx"],"errors":true,"version":"5.7.3"}
